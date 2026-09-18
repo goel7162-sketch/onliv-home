@@ -1,3 +1,22 @@
 User-agent: *
 Allow: /
-Sitemap: https://goel7162-sketch.github.io/onliv-home/sitemap.xml
+Allow: /api/feed.php
+Disallow: /api/
+Disallow: /admin/
+
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://theonliv.com/sitemap.xml
