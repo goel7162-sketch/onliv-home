@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goel7162-sketch.github.io/onliv-home/sitemap.xml
